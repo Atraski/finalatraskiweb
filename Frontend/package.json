@@ -27,6 +27,7 @@
     "react-simple-chatbot": "^0.6.1",
     "react-slick": "^0.29.0",
     "semantic-ui-react": "^2.1.4",
+    "redux": "^4.2.1",
     "slick-carousel": "^1.8.1",
     "styled-components": "^4.4.1",
     "swiper": "^10.0.4",
